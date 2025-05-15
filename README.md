@@ -69,3 +69,11 @@ INSERT INTO Sales VALUES ('S006', 'C001', 'P002', '2025-05-10', 1);
 
 -- Check the log
 SELECT * FROM SalesLog;
+---
+
+👤 Author
+
+Abu Bakr E. Ceesay  
+Undergraduate Informatics Engineering Student  
+Nusa Putra University – Second semester 2024/2025
+
