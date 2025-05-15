@@ -52,6 +52,9 @@ This project is a fully functional sales database built using SQL and phpMyAdmin
 ![Screenshot 2025-05-15 231106](https://github.com/user-attachments/assets/1655baaa-2036-43b2-a8d8-414a4484270a)
 ![Screenshot 2025-05-15 230811](https://github.com/user-attachments/assets/e30f1843-af19-4f9e-9b52-df2a47af6e95)
 
+![ER Diagram (from dbdiagram io)-page-00002](https://github.com/user-attachments/assets/0cbd9d2f-6a8d-46d3-8e58-aa588f360271)
+![ER Diagram (from dbdiagram io)-page-00001](https://github.com/user-attachments/assets/63425a15-2966-496c-ad46-b36f477b385f)
+
 🧪 Example Queries
 
 ```sql
